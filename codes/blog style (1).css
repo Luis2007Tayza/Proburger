@@ -1,0 +1,43 @@
+*{
+	margin-left: 40px;
+	margin-right: 50px
+}
+.container{
+	width: 100%;
+}
+.container h1{
+	font-size: 50px;
+	text-align: center;
+}
+.container .col img{
+	float: left;
+	margin-bottom: 30px;
+}
+.container .col p{
+	font-size: 16px;
+	margin: auto;
+}
+.container .col-1 img{
+	float: right;
+	margin-bottom: 30px;
+	margin-top: 60px;
+}
+.container .col-1 h2{
+	padding-top: 60px;
+}
+.container .col-1 p{
+	font-size: 16px;
+	margin-left: 40px;
+}
+.container .col-2 img{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 25px;
+}
+.container .col-2 h2{
+	padding-top: 60px;
+}
+.container .col-2 p{
+	font-size: 16px;
+	margin: auto;
+}
